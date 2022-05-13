@@ -120,7 +120,10 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 5210700883882568598, guid: e7a6a20cf6586de49b5427d1afb899d2, type: 2}
+  - {fileID: -7227977916929634437, guid: 451fca3a4e4f4d24d86aaa8c708f7e1b, type: 2}
+  - {fileID: 11400000, guid: 82965106bd6101d48bb87b0a7c26c938, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -663,7 +666,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     Build: 0
-    Collab: 1
+    Collab: 0
     ErrorHub: 0
     Hub: 0
     UNet: 1
@@ -679,10 +682,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: e5866d33-5510-49f5-abb0-2722d99967bc
+  cloudProjectId: 6eff0d65-e483-48fa-9973-257777d582f7
   framebufferDepthMemorylessMode: 0
-  projectName: NNLEnv (9)
-  organizationId: arjajs
+  projectName: NNLEnv
+  organizationId: melab_unity
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
